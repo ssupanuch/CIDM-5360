@@ -1,5 +1,5 @@
 # Changelog
-**Author: Your Name Here**
+**Author: Supanuch (Gam) Songprasert**
 
 All notable changes to this project will be documented in this file.
 
@@ -8,4 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - CURRENT_DATE
 ### Added
-- Changelog for CIDM4360 repository
+- Created changelog for CIDM5360 repository
